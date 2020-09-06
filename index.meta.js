@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        approval-migrator
-// @version     0.0.4
+// @version     0.0.5
 // @match       *://aflow.dingtalk.com/*
 // @match       *://oa.dingtalk.com/*
 // @run-at      document-start
