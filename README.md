@@ -1,2 +1,2 @@
-# approval-migrator
-Convert the approval data format in China
+# approval-exporter
+export the approval data format in China
