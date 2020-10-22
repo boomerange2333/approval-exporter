@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        approval-migrator
-// @version     0.0.6
+// @name        通用网页信息获取工具
+// @version     0.0.7
 // @match       *://aflow.dingtalk.com/*
 // @match       *://oa.dingtalk.com/*
 // @run-at      document-start
