@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        通用网页信息获取工具
-// @version     0.1.0
+// @version     0.1.1
 // @match       *://aflow.dingtalk.com/*
 // @match       *://oa.dingtalk.com/*
 // @run-at      document-start
